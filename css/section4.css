@@ -1,0 +1,165 @@
+.section4 {
+    display: flex;
+    flex-direction: row;
+    margin: 80px 26px 0px 26px;
+}
+
+.blog {
+    width: 75%;
+}
+
+.blog_p {
+    color: #333333;
+    font-family: Georgia;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26.3px;
+}
+
+.blog_hor_blocks {
+    display: flex;
+    flex-direction: row;
+}
+
+.blog_hor_block {
+    margin-right: 26px;
+}
+
+.blog_hor_block_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /*width: 225px;*/
+    height: 125px;
+    background-color: #333333;
+}
+
+.blog_hor_block_image p {
+    color: #ffffff;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.blog_hor_title {
+    color: #7e5c88;
+    font-family: Georgia;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 27px;
+    margin: 27px 0px 0px 0px;
+}
+
+.blog_hor_date {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    margin: 13px 0px 0px 0px;
+}
+
+.blog_hor_text {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 23px;
+    margin: 22px 0px 0px 0px;
+}
+
+.about {
+    width: 25%;
+}
+
+.about_p {
+    color: #333333;
+    font-family: Georgia;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26.3px;
+}
+
+.about_vert_block {
+    display: flex;
+    flex-direction: row;
+}
+
+.about_vert_block_left {}
+
+.about_vert_block_left2 {
+    background-color: #d8d8d8;
+    width: 95.7px;
+    height: 95.7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_vert_block_left3 {
+    background-color: #ffffff;
+    /* margin: 1px; */
+    height: 93px;
+    width: 93px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_vert_block_image {
+    width: 82px;
+    height: 82px;
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 5.5px; */
+}
+
+.about_vert_block_rigth p {
+    margin: 0px 0px 0px 12px;
+}
+
+.about_vert_block_image p {
+    color: #ffffff;
+    font-family: Georgia;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+}
+
+.about_vert_title {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: bold;
+    line-height: 19.7px;
+}
+
+.about_vert_text {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+.about_vert_link {
+    color: #7e5c88;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    /* Text style for "View Profi" */
+    line-height: 19.7px;
+    /* Text style for "»" */
+    font-weight: bold;
+    line-height: 16.4px;
+}
+
+.about_divider {
+    height: 1px;
+    background-color: #e6e6e6;
+    margin: 26px 0px 26px 0px;
+}

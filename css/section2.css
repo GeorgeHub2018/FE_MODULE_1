@@ -1,0 +1,102 @@
+.arrows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 71px 27px 0px 27px;
+}
+
+.arrow_circle {
+    width: 430px;
+    height: 430px;
+    background-color: #7e5c88;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow_circle2 {
+    width: 380px;
+    height: 380px;
+    background-color: #333333;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow_circle2 p {
+    /*width: 100px;
+    height: 17px;*/
+    color: #ffffff;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+
+}
+
+.arrow_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 430px;
+}
+
+.arrow_title {
+    /* Style for "Cursus pen" */
+    /*width: 278px;
+    height: 82px;*/
+    color: #333333;
+    font-family: Georgia;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 46px;
+    margin-bottom: 42px;
+}
+
+.arrow_text2 {
+    /*width: 313px;
+    height: 71px;*/
+    color: #979797;
+    font-family: Georgia;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19.2px;
+    margin-bottom: 27px;
+}
+
+.arrow_button {}
+
+.arrow_left {
+    display: flex;
+    align-items: center;
+}
+
+.arrow_right {
+    display: flex;
+    align-items: center;
+}
+
+.rectangle {
+    width: 194px;
+    height: 48px;
+    background-color: #7e5c88;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rectangle p {
+    /*width: 109px;
+    height: 11px;*/
+    color: #ffffff;
+    font-family: Georgia;
+    font-size: 17.7px;
+    font-weight: 400;
+    /* Text style for "Read More" */
+    line-height: 21.3px;
+    /* Text style for "»" */
+    line-height: 17.8px;
+}

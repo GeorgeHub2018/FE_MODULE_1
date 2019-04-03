@@ -1,0 +1,124 @@
+.section5 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 26px 0px 26px;
+}
+
+.section5_p {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: bold;
+    line-height: 19.7px;
+    text-transform: uppercase;
+    margin-top: 68.4px;
+    margin-bottom: 54.7px;
+}
+
+.tweet_title {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 17.8px;
+    font-weight: bold;
+    line-height: 21.3px;
+}
+
+.tweet_text {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 26.3px;
+}
+
+.tweek_link_pos {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tweet_link {
+    color: #7e5b87;
+    font-family: Georgia;
+    font-size: 16.8px;
+    font-weight: 400;
+    line-height: 19.7px;
+}
+
+.tweets {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-right: 26px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-right: 26px;
+}
+
+.link_text {
+    color: #7e5c88;
+    font-family: Georgia;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+}
+
+.link_line {
+    height: 1px;
+    background-color: #e6e6e6;
+    margin: 0px 0px 0px 0px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-right: 26px;
+}
+
+.socialize {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+.contacts_text {
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 21.3px;
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 9.5px;
+    margin-top: 19.1px;
+}
+
+.icon_back {
+    width: 44px;
+    height: 44px;
+    background-color: #c3c3c3;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back_selected {
+    background-color: #7e5c88 !important;
+}
+
+.icon_text {
+    color: #7e5b87;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 19.7px;
+    margin-left: 15px;
+}

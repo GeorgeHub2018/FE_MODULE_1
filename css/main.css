@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+}
+
+.delimeter1 {
+    height: 1.4px;
+    background-color: #e0e0e0;
+    margin: 0px 0px 0px 0px;
+}
+
+.shadow {
+    margin: 57.4px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.delimeter2 {
+    height: 4px;
+    box-shadow: 0 2.5px 4px #cacaca;
+    background-color: #ffffff;
+
+    width: 60%;
+}

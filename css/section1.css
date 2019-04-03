@@ -1,0 +1,81 @@
+.site_border {
+    height: 7px;
+    background-color: #7e5c88;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 27px;
+    height: 131px;
+
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.logo p {
+    margin: 0px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px;
+    padding-left: 0px;
+    margin-right: 29px;
+}
+
+.menu ul li {
+    list-style-type: none;
+
+
+    color: #979797;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.3px;
+    text-transform: uppercase;
+    height: 100%;
+
+}
+
+.menu ul li p {
+    margin: 72.5px 27.4px 45px 27.4px;
+}
+
+.menu_active {
+    color: #ffffff !important;
+
+    background-color: #7e5c88;
+}
+
+.logo_text {
+    width: 238px;
+    height: 44px;
+    color: #96739f;
+    font-family: Georgia;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 44px;
+}
+
+.logo_sub_text {
+    width: 213px;
+    height: 17.8px;
+    color: #979797;
+    font-family: Georgia;
+    font-size: 16.4px;
+    font-weight: 400;
+    line-height: 16.4px;
+}
